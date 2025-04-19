@@ -1,5 +1,19 @@
 This repository has the reproducible code for the experiments in the paper "Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality".
 
+## ZF Plots and Violin Plots
+
+visualization/zf-plot.ipynb
+
+
+## Training Top-AFA SAEs
+
+training/main.ipynb
+
+
+## Tutorial for Norm-Matching Activation Algorithm
+
+etc/afa_step_by_step.ipynb
+
 
 ## Acknowledgements
 
