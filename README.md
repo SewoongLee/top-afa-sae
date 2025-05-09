@@ -10,6 +10,10 @@ visualization/zf-plot.ipynb
 training/main.ipynb
 
 
+## L0-L2 Plots
+
+visualization/results.ipynb
+
 ## Tutorial for Norm-Matching Activation Algorithm
 
 etc/afa_step_by_step.ipynb
