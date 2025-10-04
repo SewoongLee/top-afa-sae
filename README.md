@@ -1,4 +1,4 @@
-This repository has the reproducible code for the experiments in the paper "Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality".
+# Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality
 
 ## ZF Plots and Violin Plots
 
