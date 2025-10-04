@@ -6,6 +6,8 @@
 
 </div>
 
+🚀 Our paper is accepted to [COLM 2025](https://openreview.net/forum?id=XhdNFeMclS#discussion)!
+
 ## ZF Plots and Violin Plots
 
 visualization/zf-plot.ipynb
